@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="name1">Jayesh</string>
+    <string name="name2">Chinmay</string>
+    <string name="name3">SUBMIT</string>
+    <string-array name="name">
+        <item>Rohit</item>
+        <item>Mudit</item>
+        <item>Jatin</item>
+        <item>Amit</item>
+        <item>Manas</item>
+    </string-array>
+</resources>
