@@ -31,25 +31,25 @@ public class friend extends AppCompatActivity {
         else if(str.compareTo("Mohit")==0)
         {
             i.setImageResource(R.drawable.mohit);
-            s="or bhai...";
+            s="konichwa bhai bhai...";
             e2.setText(s);
         }
         else if(str.compareTo("Manas")==0)
         {
             i.setImageResource(R.drawable.manas);
-            s="hai hai...";
+            s="bhut pareshani hai...";
             e2.setText(s);
         }
         else if(str.compareTo("Mudit")==0)
         {
             i.setImageResource(R.drawable.mudit);
-            s="jai...";
+            s="chai pine chale...";
             e2.setText(s);
         }
         else if(str.compareTo("Ravi")==0)
         {
             i.setImageResource(R.drawable.ravi);
-            s="chai...";
+            s="chala...";
             e2.setText(s);
         }
     }
