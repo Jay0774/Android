@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multithreading</string>
+    <string name="getlocation">getlocation</string>
+    <string name="start">Start</string>
+    <string name="enter_string">Enter string</string>
+    <string name="button">Button</string>
+</resources>
